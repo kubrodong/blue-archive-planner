@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/blue-archive-planner/static/css/main.7e4fad67.css",
-    "main.js": "/blue-archive-planner/static/js/main.e75c7ae9.js",
+    "main.js": "/blue-archive-planner/static/js/main.da2da9bd.js",
     "static/js/787.809a71c0.chunk.js": "/blue-archive-planner/static/js/787.809a71c0.chunk.js",
     "index.html": "/blue-archive-planner/index.html",
     "main.7e4fad67.css.map": "/blue-archive-planner/static/css/main.7e4fad67.css.map",
-    "main.e75c7ae9.js.map": "/blue-archive-planner/static/js/main.e75c7ae9.js.map",
+    "main.da2da9bd.js.map": "/blue-archive-planner/static/js/main.da2da9bd.js.map",
     "787.809a71c0.chunk.js.map": "/blue-archive-planner/static/js/787.809a71c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e4fad67.css",
-    "static/js/main.e75c7ae9.js"
+    "static/js/main.da2da9bd.js"
   ]
 }
